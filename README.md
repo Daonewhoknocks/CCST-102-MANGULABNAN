@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/84a54cf9-9a77-4c53-9381-2e8d9eabc7a4)![image](https://github.com/user-attachments/assets/50290883-0065-4686-81a2-d2bf86d19e09)![image](https://github.com/user-attachments/assets/3b2abdcc-23c1-4ac7-854a-223657cb9da0)**CCST-102: Introduction to Machine Learning**
+**CCST-102: Introduction to Machine Learning**
 
 https://github.com/user-attachments/assets/030aa983-ca05-4d4c-b5a0-b730fcd41d20
 
