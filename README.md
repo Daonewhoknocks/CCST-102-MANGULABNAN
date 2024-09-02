@@ -1,1 +1,1 @@
-# CCST-102-MANGULABNAN
+# CCST-102: Introduction to Machine Learning
