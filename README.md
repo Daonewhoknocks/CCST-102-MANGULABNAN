@@ -10,6 +10,15 @@ Language translation
 The process of converting the written word from one language into another language in a away that is culturally and linguistically appreciate so it can be understood by its intended audience.
 
 The art and science of translating text or spoken words from one language into another while maintaining their original meaning, intent, and tone.
-![image](https://github.com/user-attachments/assets/b1b12eef-8d85-43f4-a432-3e60a48f95e7)
+
+Language translation allows people to understand one another in without changing your native language and by translating it over into the target language.
+
+Language translation uses supervised learning because, to produce a given outcome, it takes some given inputs and perform one or more layers of mathematical transformation based on adjusting data weightings.
+
+Such as statistical machine translation (SMT) and neural machine translation (nmt), relies on parallel data to learn the relationship between the source and target audience.
+
+Language translation is integral in connecting people, business and cultures and making communication across linguistic barriers possible.
+
+
 
 
