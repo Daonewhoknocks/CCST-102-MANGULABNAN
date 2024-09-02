@@ -1,5 +1,7 @@
 CCST-102: Introduction to Machine Learning
 
+https://github.com/user-attachments/assets/030aa983-ca05-4d4c-b5a0-b730fcd41d20
+
 Different Applications of machine learning across various domains
 
 MACHINE LEARNING IS THE USE AND DEVELOPMENT OF COMPUTER SYSTEMS THAT ARE ABLE TO LEARN AND ADAPT WITHOUT FOLLOWING EXPLICIT INSTRUCTION.
